@@ -8,7 +8,7 @@ https://github.com/rakyll/portmidi
 // pm_test/mm.c
 
 #include "stdlib.h"
-#incude "ctype.h"
+#include "ctype.h"
 #include "string.h"
 #include "stdio.h"
 #include "porttime.h"
